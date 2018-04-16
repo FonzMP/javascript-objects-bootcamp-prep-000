@@ -1,5 +1,5 @@
 var playlist = {
-  KISS: 'Detroit Rock City'
+  Kiss: 'Detroit Rock City'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
