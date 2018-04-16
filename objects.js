@@ -1,5 +1,1 @@
-var playlist = {
-  Bon Jovi: "Living on a Prayer",
-  Steel Panther: 'The Shocker',
-  KISS: 'Detroit Rock City'
-}
+Object.assign({}, playlist, {Bon Jovi: "Living on a Prayer", KISS: "Detroit Rocky City", Valient Thorr: "Exit Strategy"});
