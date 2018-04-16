@@ -1,1 +1,0 @@
-Object.assign({}, playlist, {Bon Jovi: "Living on a Prayer", KISS: "Detroit Rocky City", Valient Thorr: "Exit Strategy"});
